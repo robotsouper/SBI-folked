@@ -1,0 +1,1 @@
+(venv) PS C:\Users\范清源\OneDrive\桌面\2024 Fall\research\SelfBlendedImages> python src/inference/inference_video.py -w weights/FFraw.tar -i datasets/Audio2Head/biden.mp4
