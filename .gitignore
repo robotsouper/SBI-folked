@@ -7,4 +7,5 @@
 *.txt
 *.h5
 dataset/
+venv/
 
